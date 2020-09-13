@@ -10,4 +10,4 @@
 
 - qwqwqwq
 
-![你在想屁吃！](https://github.com/nihui/nihui/blob/master/20200910.jpg?raw=true)
+- [nihui在电影院.jpg](https://github.com/nihui/nihui/blob/master/20200910.jpg?raw=true)
