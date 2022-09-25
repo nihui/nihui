@@ -14,7 +14,3 @@
 - qwqwqwq
 
 - [nihui头像全图.jpg](https://github.com/nihui/nihui/blob/master/nihui.jpg?raw=true)
-
-- [nihui在电影院.jpg](https://github.com/nihui/nihui/blob/master/20200910.jpg?raw=true)
-
-- [右图.jpg](https://github.com/nihui/nihui/blob/master/patch.jpg?raw=true)
