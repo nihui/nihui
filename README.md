@@ -1,5 +1,5 @@
 
-<img align="right" src="https://github.com/nihui/nihui/blob/master/patch.jpg?raw=true" />
+
 
 # 是 nihui !
 
